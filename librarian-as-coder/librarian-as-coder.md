@@ -12,7 +12,7 @@
 
 ## _"Software is going to <br/>eat the world"_ [*](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460)<!-- .element target="_blank" -->
 
-...and Librarians need to have lot´s of insight into code <!-- .element class="fragment" -->
+...and Librarians need to have lots of insight into code <!-- .element class="fragment" -->
 
 >>>>NEWSLIDE
 
